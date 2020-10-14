@@ -1,16 +1,23 @@
-### Hi there 👋
+# Let's begin ! 😎
+Welcome to my github profile ! 😄
 
-<!--
-**JavierL00/JavierL00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a university student in the career of Software Engineer and in my free times I study to be a front-end web developer. 
 
-Here are some ideas to get you started:
+## 📌 Skills
+✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/cpp.png" width=14px> C++ <br>
+✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/csharp.png" width=14px> C# <br>
+✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/sql.png" width=14px> SQL <br>
+✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/java.png" width=14px> Java <br>
+✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/html.png" width=14px> HTML <br>
+✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/css.png" width=14px> CSS <br>
+✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/js.png" width=14px>JavaScript <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 I'm currently learning on
+→ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/react.png" width=14px> React <br>
+→ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/mongodb.png" width=14px> MongoDB <br>
+
+## 💣 I really enjoy
+💻 Coding <br>
+🎸 Play guitar <br>
+🏀 Play basketball <br>
+🎮 Play videogames <br>
