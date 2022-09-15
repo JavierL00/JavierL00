@@ -11,10 +11,11 @@ I'm a university student in the career of Software Engineer and in my free times
 ✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/html.png" width=14px> HTML <br>
 ✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/css.png" width=14px> CSS <br>
 ✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/js.png" width=14px>JavaScript <br>
+✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/react.png" width=14px> React <br>
+✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/mongodb.png" width=14px> MongoDB <br>
 
-## 👨🏻‍💻 I'm currently learning on
-→ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/react.png" width=14px> React <br>
-→ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/mongodb.png" width=14px> MongoDB <br>
+## 👨🏻‍💻 I'm currently working on
+→ Java Microservices
 
 ## 💣 I really enjoy
 💻 Coding <br>
