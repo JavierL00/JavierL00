@@ -3,6 +3,9 @@ Welcome to my github profile ! 😄
 
 I'm a university student in the career of Software Engineer and in my free times I study to be a front-end web developer. 
 
+## Pages
+https://poetic-tarsier-129a35.netlify.app
+
 ## 📌 Skills
 ✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/cpp.png" width=14px> C++ <br>
 ✓ <img src="https://github.com/JavierL00/JavierL00/blob/main/.github/csharp.png" width=14px> C# <br>
